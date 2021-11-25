@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @educalafate
-- 👀 I’m interested in Programing, IaaS, Network Management System, Docmuent Systems and **Healthcare Systems**.
+- 👀 I’m interested in Programing, Network Management System, Docmuent Systems and **Healthcare Systems**.
 - 🌱 I’m currently learning DataScience, Advanced Python.
 - 💞️ I’m looking to collaborate on Zabbix, GLPI, osTicket open source systems.
 
